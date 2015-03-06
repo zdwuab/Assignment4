@@ -1,3 +1,11 @@
-section.section1 {background-color: #FFFFCC; visibility: hidden; overflow: scroll; height: 75%; width: 100%;}
+section.section1 {text-align: center; background-color: #FFFFCC; visibility: hidden; overflow: scroll; width: 600px; position: absolute;} 
 
-section.section2 {background-color: #DCDCDC; visibility: hidden; overflow: scroll; height: 75%; width: 100%;}
+section.section2 {text-align: center; background-color: #DCDCDC; visibility: hidden; overflow: scroll; width: 600px; position: absolute;}
+
+#title {text-align: center; width: 600px;}
+
+#picture2 {padding: 5pt; height: 50%; width: 50%;}
+
+#footer {position: absolute; top: 380px;}
+
+body {background-color: #b0c4de;}
